@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: f05c305ac2f15471aaa55609452fe228
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - innerTopLeft: {fileID: 400000, guid: ecad47f955dbc4cbba33690c8d8a021d, type: 2}
+  - innerTopRight: {fileID: 400000, guid: 3c1a042398b2c4cfeac4d47b1500b5ab, type: 2}
+  - innerBotLeft: {fileID: 400000, guid: ae367b95c82624ea4a62b16ca2b41800, type: 2}
+  - innerBotRight: {fileID: 400000, guid: c739513bddff14242ae91b82192b2fc0, type: 2}
+  - innerVertical: {fileID: 400000, guid: 4cb13441a29924aea9c06b7e2f811bac, type: 2}
+  - innerHorizontal: {fileID: 400000, guid: b3e01ebd6297b41c6bc9d414d63ae64a, type: 2}
+  - empty: {fileID: 400000, guid: e974f4bb1284d4c2d86ff77828e57b9c, type: 2}
+  - Gate: {fileID: 400000, guid: d1673a0942072471e989781ce055e526, type: 2}
+  - outerTopLeft: {fileID: 400000, guid: b5bbe655fa8a64a4c9a33c784bd44114, type: 2}
+  - outerTopRight: {fileID: 400000, guid: d91a0d90442d34197b051b6cf7e692d6, type: 2}
+  - outerBotLeft: {fileID: 400000, guid: b69cf51b5406e415c8071e39b4964331, type: 2}
+  - outerBotRight: {fileID: 400000, guid: 80abe3d7b720d4d4691ffde029747f0e, type: 2}
+  - outerVertical: {fileID: 400000, guid: e106d6e8e45ef4e4aa83b5e42c07c7f6, type: 2}
+  - outerHorizontal: {fileID: 400000, guid: 1ae82a07835d948bea3aaea0fd39f7e4, type: 2}
+  - pellet: {instanceID: 0}
+  - PacMan: {instanceID: 0}
+  - Inky: {instanceID: 0}
+  - Blinky: {instanceID: 0}
+  - Pinky: {instanceID: 0}
+  - Clyde: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
